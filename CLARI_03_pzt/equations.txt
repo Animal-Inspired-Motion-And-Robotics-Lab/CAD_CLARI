@@ -1,0 +1,4 @@
+﻿"t"= 0.3'thickness of the sheets
+"FlexJoint"= 0.15'Width of flextures
+"FoldJoint"= 0.4'Width of folding joints
+"AssembleAngle"= 90'Angle of assembly parts
